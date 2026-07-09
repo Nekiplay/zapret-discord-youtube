@@ -47,7 +47,6 @@ betterttv.net
 7tv.io
 localizeapi.com
 klipy.com
-modrinth.com
 github.com
 pack.fishonmc.net
 play.fishonmc.net
@@ -71,3 +70,9 @@ repo.nea.moe
 live.albiononline.com
 assets.albiononline.com
 albiononline.com
+api.modrinth.com
+status.modrinth.com
+modrinth.com
+zen-browser.app
+release-assets.githubusercontent.com
+px6.me

@@ -1,0 +1,3 @@
+hypixel.net
+mc.hypixel.net
+mr-b01.tm-azurefd.net
